@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arcane-ss
+- 👋 Hi, I’m @arhapsari
 - 👀 I’m interested in data science
 - 🌱 I’m currently learning data analytics
 - 💞️ I’m looking to collaborate on data analytics projects
